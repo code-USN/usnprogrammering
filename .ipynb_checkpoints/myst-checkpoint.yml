@@ -2,14 +2,19 @@
 version: 1
 project:
   id: 53acbc2b-0e04-4784-bcfe-5d25a15b72cf
-  # title:
+  # title: Her kommer det ting
   # description:
   # keywords: []
   # authors: []
-  # github:
+  github: code-USN/usnprogrammering
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: Start.ipynb
+    - file: Sample code.ipynb
+    - file: microbit-automatisk-vanning.ipynb
+    
 site:
   template: book-theme
   # options:
   #   favicon: favicon.ico
-  #   logo: site_logo.png
+  logo: images/USN-symbol_sort.png
