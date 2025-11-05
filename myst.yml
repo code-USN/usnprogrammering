@@ -10,8 +10,15 @@ project:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
     - file: Start.ipynb
-    - file: Sample code.ipynb
-    - file: microbit-automatisk-vanning.ipynb
+    - file: Seksjon1.ipynb
+      children:
+        - file: Sample code.ipynb
+        - file: microbit-automatisk-vanning.ipynb
+    - file: Seksjon2.ipynb
+      children:
+        - file: Programmering i Python del 2.ipynb
+        - file: Mattespill-KidsaKoder.ipynb
+        - file: Fuglepopulasjon-pyplot.ipynb
     
 site:
   template: book-theme
