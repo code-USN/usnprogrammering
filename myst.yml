@@ -19,6 +19,10 @@ project:
         - file: Programmering i Python del 2.ipynb
         - file: Mattespill-KidsaKoder.ipynb
         - file: Fuglepopulasjon-pyplot.ipynb
+    - title: Seksjon 3 - kun overskrift!
+      children:
+        - file: s3-side1.ipynb
+        - file: tilfeldig terning.ipynb
     
 site:
   template: book-theme
