@@ -22,6 +22,7 @@ project:
     - title: Seksjon 3 - kun overskrift!
       children:
         - file: s3-side1.ipynb
+        - file: forsok_med_sum_av_flere_terninger.ipynb
         - file: tilfeldig terning.ipynb
     
 site:
