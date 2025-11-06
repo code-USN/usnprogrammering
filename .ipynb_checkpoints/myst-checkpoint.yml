@@ -17,7 +17,7 @@ project:
     - file: Seksjon2.ipynb
       children:
         - file: Programmering i Python del 2.ipynb
-        - file: Mattespill-KidsaKoder.ipynb
+        - file: matte/Mattespill-KidsaKoder.ipynb
         - file: Fuglepopulasjon-pyplot.ipynb
     - title: Seksjon 3 - kun overskrift!
       children:
