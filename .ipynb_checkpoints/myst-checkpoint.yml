@@ -2,7 +2,7 @@
 version: 1
 project:
   id: 53acbc2b-0e04-4784-bcfe-5d25a15b72cf
-  # title: Her kommer det ting
+  title: Programmering i skolen
   # description:
   # keywords: []
   # authors: []
@@ -10,16 +10,19 @@ project:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
     - file: Start.ipynb
-    - title: Del 1
+    - file: Seksjon1.ipynb
       children:
         - file: Sample code.ipynb
         - file: microbit-automatisk-vanning.ipynb
-    - title: Del 2 - Naturfag
     - file: Seksjon2.ipynb
       children:
         - file: Programmering i Python del 2.ipynb
         - file: Mattespill-KidsaKoder.ipynb
         - file: Fuglepopulasjon-pyplot.ipynb
+    - title: Seksjon 3 - kun overskrift!
+      children:
+        - file: s3-side1.ipynb
+        - file: tilfeldig terning.ipynb
     
 site:
   template: book-theme
