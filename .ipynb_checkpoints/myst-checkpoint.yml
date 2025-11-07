@@ -24,7 +24,7 @@ project:
 site:
   template: book-theme
   options:
-      favicon: images/USN-symbol_sort.ico
+      favicon: images/USN-symbol_sort.png
       logo: images/USN-logo_sort-norsk.png
       logo_dark: images/USN-logo_hvit.png
       logo_text: Programmering for undervisning
