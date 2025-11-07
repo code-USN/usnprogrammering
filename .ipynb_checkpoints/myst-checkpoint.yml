@@ -5,25 +5,21 @@ project:
   title: Programmering i skolen
   # description:
   # keywords: []
-  # authors: []
-  github: code-USN/usnprogrammering
+  authors: [Sigurd Rage, Viggo T. Andersen]
+  # github: code-USN/usnprogrammering
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
-    - file: Start.ipynb
-    - file: Seksjon1.ipynb
+    - file: index.ipynb
+    - title: Matematikk
       children:
-        - file: Sample code.ipynb
-        - file: microbit-automatisk-vanning.ipynb
-    - file: Seksjon2.ipynb
+        - file: matematikk/Matematikk-oversikt.ipynb
+        - file: matematikk/forsok_med_sum_av_flere_terninger.ipynb
+        - file: matematikk/Programmering i Python del 2.ipynb
+        - file: matematikk/Mattespill-KidsaKoder.ipynb
+    - title: Naturfag
       children:
-        - file: Programmering i Python del 2.ipynb
-        - file: matte/Mattespill-KidsaKoder.ipynb
-        - file: Fuglepopulasjon-pyplot.ipynb
-    - title: Seksjon 3 - kun overskrift!
-      children:
-        - file: s3-side1.ipynb
-        - file: forsok_med_sum_av_flere_terninger.ipynb
-        - file: tilfeldig terning.ipynb
+        - file: naturfag/Naturfag-oversikt.ipynb
+        - file: naturfag/microbit-automatisk-vanning.ipynb
     
 site:
   template: book-theme
