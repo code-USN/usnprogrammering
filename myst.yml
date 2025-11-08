@@ -16,6 +16,7 @@ project:
         - file: matematikk/forsok_med_sum_av_flere_terninger.ipynb
         - file: matematikk/Programmering i Python del 2.ipynb
         - file: matematikk/Mattespill-KidsaKoder.ipynb
+        - file: matematikk/Simulering av radioaktiv nedbrytning.ipynb
     - title: Naturfag
       children:
         - file: naturfag/Naturfag-oversikt.ipynb
