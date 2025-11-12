@@ -17,7 +17,7 @@ project:
         - file: matematikk/Programmering i Python del 2.ipynb
         - file: matematikk/Mattespill-KidsaKoder.ipynb
         - file: matematikk/Simulering av radioaktiv nedbrytning.ipynb
-        - file: matematikk/Likheter-uliketer-betingelser.ipynb
+        - file: matematikk/Likheter-ulikheter-betingelser.ipynb
     - title: Naturfag
       children:
         - file: naturfag/Naturfag-oversikt.ipynb
