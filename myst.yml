@@ -17,8 +17,10 @@ project:
       children:
         - file: matematikk/Matematikk-oversikt.ipynb
         - file: matematikk/Likheter-ulikheter-betingelser.ipynb
+        - file: matematikk/Andregradsfunksjonskalkulator.ipynb
         - file: matematikk/Tabeller-funksjoner-plotting.ipynb
         - file: matematikk/Funksjonsanalyse-i-python.ipynb
+        - file: matematikk/Numerisk-integral.ipynb
         - file: matematikk/Simulering av radioaktiv nedbrytning.ipynb
         - file: matematikk/Geometri-plotting.ipynb
     - title: Naturfag
