@@ -13,12 +13,13 @@ project:
     - title: Om nettsiden
       children:
         - file: om_nettstedet/hvordan-bruke-sidene.ipynb
+        - file: om_nettstedet/stilgaid.ipynb
     - title: Matematikk
       children:
         - file: matematikk/Matematikk-oversikt.ipynb
         - file: matematikk/Likheter-ulikheter-betingelser.ipynb
-        - file: matematikk/Tabeller-funksjoner-plotting.ipynb
         - file: matematikk/Andregradsfunksjonskalkulator.ipynb
+        - file: matematikk/Tabeller-funksjoner-plotting.ipynb
         - file: matematikk/Funksjonsanalyse-i-python.ipynb
         - file: matematikk/Numerisk-integral.ipynb
         - file: matematikk/Simulering av radioaktiv nedbrytning.ipynb
