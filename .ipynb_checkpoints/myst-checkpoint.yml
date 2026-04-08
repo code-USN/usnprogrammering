@@ -14,6 +14,7 @@ project:
       children:
         - file: om_nettstedet/hvordan-bruke-sidene.ipynb
         - file: om_nettstedet/stilgaid.ipynb
+        - file: om_nettstedet/codeblocktest.ipynb
     - title: Matematikk
       children:
         - file: matematikk/Matematikk-oversikt.ipynb
