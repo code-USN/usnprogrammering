@@ -18,6 +18,7 @@ project:
     - title: Matematikk
       children:
         - file: matematikk/Matematikk-oversikt.ipynb
+        - file: matematikk/Grunnleggende-Python.ipynb
         - file: matematikk/Likheter-ulikheter-betingelser.ipynb
         - file: matematikk/Andregradsfunksjonskalkulator.ipynb
         - file: matematikk/Tabeller-funksjoner-plotting.ipynb
